@@ -1,0 +1,8 @@
+- [x] Modeling framework
+- [x] Representative Gurobi template
+- [x] Course-result evidence inventory
+- [x] Case study and interview guide
+- [ ] Reconstruct 3 strongest source models exactly
+- [ ] Validate objectives/constraints/results
+- [ ] Export sensitivity tables
+- [ ] Publish repository

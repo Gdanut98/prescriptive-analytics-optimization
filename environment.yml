@@ -1,0 +1,10 @@
+name: portfolio-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy>=1.24
+      - pandas>=2.0
+      - gurobipy>=10.0
