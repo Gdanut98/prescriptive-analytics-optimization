@@ -40,3 +40,12 @@ Excel Solver • OpenSolver • SolverTable • Python • Gurobi / gurobipy
 - Factory-layout example: total distance 200
 
 These are course-solution results; the public repository should include only models that can be reconstructed and validated from source files.
+
+
+---
+
+## Portfolio navigation
+- [George Danut — Analytics & BI Portfolio](https://gdanut98.github.io/GeorgeDanut.github.io/)
+- [GitHub profile](https://github.com/Gdanut98)
+
+**Reviewer path:** Start with this README, then inspect the repository's case-study/results documentation and executable SQL or Python evidence. Academic foundations and later portfolio extensions are identified separately where applicable.
